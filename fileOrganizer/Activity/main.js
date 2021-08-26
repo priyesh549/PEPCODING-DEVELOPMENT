@@ -12,7 +12,7 @@ switch(command){
         helpObj.helpFn();
         break;
     case "tree":
-        treeObj.treeFn(path);
+        treeObj.treeFn(path,"");
         break;
     case "organize":
         organizeObj.organizeFn(path);
