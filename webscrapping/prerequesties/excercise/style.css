@@ -1,0 +1,55 @@
+/* div p span{
+    color: rgb(132, 179, 163);
+}
+
+div>p>span{
+    color: rgb(202, 50, 50);
+} */
+
+
+/* q2 html */
+
+/* .sonu{
+    padding: 20px;
+    font-size: large;
+    font-weight: bolder;
+    color: rgb(88, 59, 21);
+}
+
+.monu{
+    padding: 20px;
+    font-size: large;
+    font-weight: bolder;
+    color: rgb(173, 74, 91);
+}
+ sister siblings 
+.sonu.monu{  
+    padding: 20px;
+    font-weight: bolder;
+    font-size: large;
+    color: rgb(64, 64, 122);
+} */
+
+
+/* q3 html */
+/* 
+.c1>p{
+    color: rgb(117, 180, 0);
+} */
+
+
+
+/* q4 attribute selector */
+/* input[value="Write here"]{
+    color: rgb(236, 49, 49);
+} */
+
+
+/* q5-question */
+/* div~p{
+    color: blueviolet;
+} */ 
+/* or  */
+.some-class #the-one>.c1.c2{
+    color: orchid;
+}
