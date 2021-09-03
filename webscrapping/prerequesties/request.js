@@ -1,6 +1,8 @@
 const request = require("request");
 const cheerio = require("cheerio");
 
+
+// coronavirus worldometer -> total active death cases taken
 request('https://www.worldometers.info/coronavirus/', callback);
 
 function callback(err,response,html){
@@ -21,3 +23,5 @@ function extractHTML(html){
         console.log(data);
     }
 }
+
+
