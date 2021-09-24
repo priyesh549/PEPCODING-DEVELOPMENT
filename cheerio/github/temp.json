@@ -1,0 +1,638 @@
+[
+    {
+        "topicUrl": "https://www.github.com/topics/jupyter-notebook",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/jakevdp/PythonDataScienceHandbook",
+                "issues": [
+                    {
+                        "issueName": "Fancy Indexing Bins example graph error",
+                        "issueUrl": "https://www.github.com/jakevdp/PythonDataScienceHandbook/issues/311"
+                    },
+                    {
+                        "issueName": "Multiple Errors in notebooks / 05.13-Kernel-Density-Estimation.ipynb",
+                        "issueUrl": "https://www.github.com/jakevdp/PythonDataScienceHandbook/issues/309"
+                    },
+                    {
+                        "issueName": "Books",
+                        "issueUrl": "https://www.github.com/jakevdp/PythonDataScienceHandbook/issues/306"
+                    },
+                    {
+                        "issueName": "Pip subprocess error: Command \"python setup.py egg_info\" failed with error code 1 in /tmp/pip-install-qwas2iyk/matplotlib/",
+                        "issueUrl": "https://www.github.com/jakevdp/PythonDataScienceHandbook/issues/303"
+                    },
+                    {
+                        "issueName": "I am new in Python Data Science. I have the error as follows:  ParserError: Error tokenizing data. C error: Expected 1 fields in line 12, saw 2 . How to resolve this?",
+                        "issueUrl": "https://www.github.com/jakevdp/PythonDataScienceHandbook/issues/295"
+                    },
+                    {
+                        "issueName": "ImportError: cannot import name 'RandomizedPCA' for 05.07-Support-Vector-Machines.ipynb",
+                        "issueUrl": "https://www.github.com/jakevdp/PythonDataScienceHandbook/issues/293"
+                    },
+                    {
+                        "issueName": "DS",
+                        "issueUrl": "https://www.github.com/jakevdp/PythonDataScienceHandbook/issues/292"
+                    },
+                    {
+                        "issueName": "Update Matplotlib formatters/tickers",
+                        "issueUrl": "https://www.github.com/jakevdp/PythonDataScienceHandbook/issues/284"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+                "issues": [
+                    {
+                        "issueName": "Chapter 2 link to GreenhillWardSacks paper is broken.",
+                        "issueUrl": "https://www.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/530"
+                    },
+                    {
+                        "issueName": "Bug in Ch6_priors_pymc3.ipynb ",
+                        "issueUrl": "https://www.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/527"
+                    },
+                    {
+                        "issueName": "definition of a continuous distribution in chap 1",
+                        "issueUrl": "https://www.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/525"
+                    },
+                    {
+                        "issueName": "Ch2, tensorflow import issue",
+                        "issueUrl": "https://www.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/524"
+                    },
+                    {
+                        "issueName": "Cannot compile: Key error template_paths",
+                        "issueUrl": "https://www.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/522"
+                    },
+                    {
+                        "issueName": "PyMC3 install, https://github.com/pymc-devs/pymc3/wiki/Installation-Guide-(Windows)",
+                        "issueUrl": "https://www.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/521"
+                    },
+                    {
+                        "issueName": "Chap 1, Section: Introducing our first hammer: PyMC3, example error, PyMC3,",
+                        "issueUrl": "https://www.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/520"
+                    },
+                    {
+                        "issueName": "[Feature Request] Add new TFP syntax: JointDistribution*{AutoBatched}",
+                        "issueUrl": "https://www.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/517"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/ageron/handson-ml",
+                "issues": [
+                    {
+                        "issueName": "Chapter 2 (page90), full_pipeline.transform()",
+                        "issueUrl": "https://www.github.com/ageron/handson-ml/issues/637"
+                    },
+                    {
+                        "issueName": "Chapter 2: Stratify",
+                        "issueUrl": "https://www.github.com/ageron/handson-ml/issues/635"
+                    },
+                    {
+                        "issueName": "Chapter 2",
+                        "issueUrl": "https://www.github.com/ageron/handson-ml/issues/634"
+                    },
+                    {
+                        "issueName": "Help Me Please!!!!!!!!!!!!!",
+                        "issueUrl": "https://www.github.com/ageron/handson-ml/issues/632"
+                    },
+                    {
+                        "issueName": "Splitting with hashlib",
+                        "issueUrl": "https://www.github.com/ageron/handson-ml/issues/628"
+                    },
+                    {
+                        "issueName": "using column indices in the Custom Transformer",
+                        "issueUrl": "https://www.github.com/ageron/handson-ml/issues/615"
+                    },
+                    {
+                        "issueName": "Creating a test set with a hash (Issue 71 was closed)",
+                        "issueUrl": "https://www.github.com/ageron/handson-ml/issues/613"
+                    },
+                    {
+                        "issueName": "got an error while opening notebook Unreadable Notebook: C:\\requestshtml\\envdeepl\\02_end_to_end_machine_learning_project.ipynb NotJSONError(\"Notebook does not appear to be JSON: '\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n<!DOCTYPE html>\\\\n<html lang...\",)",
+                        "issueUrl": "https://www.github.com/ageron/handson-ml/issues/611"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/trekhleb/homemade-machine-learning",
+                "issues": [
+                    {
+                        "issueName": "ann",
+                        "issueUrl": "https://www.github.com/trekhleb/homemade-machine-learning/issues/37"
+                    },
+                    {
+                        "issueName": "ML",
+                        "issueUrl": "https://www.github.com/trekhleb/homemade-machine-learning/issues/35"
+                    },
+                    {
+                        "issueName": "Website not getting redirect?",
+                        "issueUrl": "https://www.github.com/trekhleb/homemade-machine-learning/issues/22"
+                    },
+                    {
+                        "issueName": "error LogisticRegression ",
+                        "issueUrl": "https://www.github.com/trekhleb/homemade-machine-learning/issues/21"
+                    },
+                    {
+                        "issueName": "Update Machine Learning Map ?",
+                        "issueUrl": "https://www.github.com/trekhleb/homemade-machine-learning/issues/20"
+                    },
+                    {
+                        "issueName": "theta[0] is caculated twice in per gradient_step at LinearRegression",
+                        "issueUrl": "https://www.github.com/trekhleb/homemade-machine-learning/issues/17"
+                    },
+                    {
+                        "issueName": "use line function to test linear regression",
+                        "issueUrl": "https://www.github.com/trekhleb/homemade-machine-learning/issues/15"
+                    },
+                    {
+                        "issueName": "Include semi-supervised learning in the map",
+                        "issueUrl": "https://www.github.com/trekhleb/homemade-machine-learning/issues/8"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/MLEveryday/100-Days-Of-ML-Code",
+                "issues": [
+                    {
+                        "issueName": "请教：Info-graphs中的Day4 逻辑回归 插图，如何绘制？恳请指点",
+                        "issueUrl": "https://www.github.com/MLEveryday/100-Days-Of-ML-Code/issues/96"
+                    },
+                    {
+                        "issueName": "推荐一个微信小程序可以方便查看该项目",
+                        "issueUrl": "https://www.github.com/MLEveryday/100-Days-Of-ML-Code/issues/89"
+                    },
+                    {
+                        "issueName": "support python 3 ?",
+                        "issueUrl": "https://www.github.com/MLEveryday/100-Days-Of-ML-Code/issues/88"
+                    },
+                    {
+                        "issueName": "QQ群",
+                        "issueUrl": "https://www.github.com/MLEveryday/100-Days-Of-ML-Code/issues/83"
+                    },
+                    {
+                        "issueName": "补充资源",
+                        "issueUrl": "https://www.github.com/MLEveryday/100-Days-Of-ML-Code/issues/70"
+                    },
+                    {
+                        "issueName": "常用工具推荐",
+                        "issueUrl": "https://www.github.com/MLEveryday/100-Days-Of-ML-Code/issues/60"
+                    },
+                    {
+                        "issueName": "搬运中的错误",
+                        "issueUrl": "https://www.github.com/MLEveryday/100-Days-Of-ML-Code/issues/9"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/emilwallner/Screenshot-to-code",
+                "issues": [
+                    {
+                        "issueName": "Help to use",
+                        "issueUrl": "https://www.github.com/emilwallner/Screenshot-to-code/issues/64"
+                    },
+                    {
+                        "issueName": "AttributeError: module 'keras.utils.generic_utils' has no attribute 'populate_dict_with_module_objects'",
+                        "issueUrl": "https://www.github.com/emilwallner/Screenshot-to-code/issues/63"
+                    },
+                    {
+                        "issueName": "Corrupt weight file for bootstrap",
+                        "issueUrl": "https://www.github.com/emilwallner/Screenshot-to-code/issues/62"
+                    },
+                    {
+                        "issueName": "idea: Has anyone attempted this task using transformers?",
+                        "issueUrl": "https://www.github.com/emilwallner/Screenshot-to-code/issues/61"
+                    },
+                    {
+                        "issueName": "ValueError: GRU(reset_after=False) is not compatible with GRU(reset_after=True) ",
+                        "issueUrl": "https://www.github.com/emilwallner/Screenshot-to-code/issues/58"
+                    },
+                    {
+                        "issueName": "how can I use this to generate the ideal HTML code(the code you've shown in readme.md)",
+                        "issueUrl": "https://www.github.com/emilwallner/Screenshot-to-code/issues/56"
+                    },
+                    {
+                        "issueName": "HTML version: Code HTML not generated",
+                        "issueUrl": "https://www.github.com/emilwallner/Screenshot-to-code/issues/45"
+                    },
+                    {
+                        "issueName": "feat: Add support for JavaScript",
+                        "issueUrl": "https://www.github.com/emilwallner/Screenshot-to-code/issues/42"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/microsoft/recommenders",
+                "issues": [
+                    {
+                        "issueName": "[ASK] How to run with docker in  GPU environment",
+                        "issueUrl": "https://www.github.com/microsoft/recommenders/issues/1526"
+                    },
+                    {
+                        "issueName": "No module named 'recommenders'[ASK] ",
+                        "issueUrl": "https://www.github.com/microsoft/recommenders/issues/1519"
+                    },
+                    {
+                        "issueName": "[BUG] AttributeError: module 'tensorflow.keras.initializers' has no attribute 'truncated_normal'\\n in multinomial_vae.py",
+                        "issueUrl": "https://www.github.com/microsoft/recommenders/issues/1513"
+                    },
+                    {
+                        "issueName": "[FEATURE] Store datasets as sparse matrix instead of np to increase models' scalability",
+                        "issueUrl": "https://www.github.com/microsoft/recommenders/issues/1512"
+                    },
+                    {
+                        "issueName": "Python 3.7 Support",
+                        "issueUrl": "https://www.github.com/microsoft/recommenders/issues/1511"
+                    },
+                    {
+                        "issueName": "[FEATURE] Export RBM model",
+                        "issueUrl": "https://www.github.com/microsoft/recommenders/issues/1510"
+                    },
+                    {
+                        "issueName": "Tests runnable on default CI agent",
+                        "issueUrl": "https://www.github.com/microsoft/recommenders/issues/1507"
+                    },
+                    {
+                        "issueName": "[FEATURE] Support using repo with codespaces",
+                        "issueUrl": "https://www.github.com/microsoft/recommenders/issues/1502"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/hangtwenty/dive-into-machine-learning",
+                "issues": [
+                    {
+                        "issueName": "Add link - https://github.com/trekhleb/machine-learning-experiments",
+                        "issueUrl": "https://www.github.com/hangtwenty/dive-into-machine-learning/issues/139"
+                    },
+                    {
+                        "issueName": "Add link - https://github.com/ageron/handson-ml",
+                        "issueUrl": "https://www.github.com/hangtwenty/dive-into-machine-learning/issues/138"
+                    },
+                    {
+                        "issueName": "Add link - Wikipedia's outline of ML is pretty great",
+                        "issueUrl": "https://www.github.com/hangtwenty/dive-into-machine-learning/issues/137"
+                    },
+                    {
+                        "issueName": "braindump",
+                        "issueUrl": "https://www.github.com/hangtwenty/dive-into-machine-learning/issues/127"
+                    },
+                    {
+                        "issueName": "section on timeseries DBs and tsfresh (automated feature extraction)",
+                        "issueUrl": "https://www.github.com/hangtwenty/dive-into-machine-learning/issues/121"
+                    },
+                    {
+                        "issueName": "add links to @rabst's books",
+                        "issueUrl": "https://www.github.com/hangtwenty/dive-into-machine-learning/issues/120"
+                    },
+                    {
+                        "issueName": "add link to Python Data Science Handbook",
+                        "issueUrl": "https://www.github.com/hangtwenty/dive-into-machine-learning/issues/119"
+                    },
+                    {
+                        "issueName": "Add info about Dask",
+                        "issueUrl": "https://www.github.com/hangtwenty/dive-into-machine-learning/issues/117"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://www.github.com/topics/bootstrap",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/twbs/bootstrap",
+                "issues": [
+                    {
+                        "issueName": "Add a feature To access color by using hex code of the color",
+                        "issueUrl": "https://www.github.com/twbs/bootstrap/issues/35044"
+                    },
+                    {
+                        "issueName": "Tooltip does not disappear when button state changes to disabled.",
+                        "issueUrl": "https://www.github.com/twbs/bootstrap/issues/35041"
+                    },
+                    {
+                        "issueName": "scss flag to disable generation of btn-outline classes",
+                        "issueUrl": "https://www.github.com/twbs/bootstrap/issues/35040"
+                    },
+                    {
+                        "issueName": "Bootstrap 5 Sass-variable $tooltip-margin not clear or not working",
+                        "issueUrl": "https://www.github.com/twbs/bootstrap/issues/35039"
+                    },
+                    {
+                        "issueName": "Hiding elements in Breakpoints",
+                        "issueUrl": "https://www.github.com/twbs/bootstrap/issues/35035"
+                    },
+                    {
+                        "issueName": "Bootstrap 5 throws \"Object reference not set to an instance of an object\" error.",
+                        "issueUrl": "https://www.github.com/twbs/bootstrap/issues/35031"
+                    },
+                    {
+                        "issueName": "Popover dynamic content issue on bootstrap 5.1",
+                        "issueUrl": "https://www.github.com/twbs/bootstrap/issues/35029"
+                    },
+                    {
+                        "issueName": "The data-bs-delay='{\"show\": 500}' kills the tooltip style",
+                        "issueUrl": "https://www.github.com/twbs/bootstrap/issues/35020"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/ColorlibHQ/AdminLTE",
+                "issues": [
+                    {
+                        "issueName": "[FEATURE] Navbar Badges should be easier to read",
+                        "issueUrl": "https://www.github.com/ColorlibHQ/AdminLTE/issues/3945"
+                    },
+                    {
+                        "issueName": "[BUG] alter bug in mozilla firefox browser in adminlte v3.2.0-RC",
+                        "issueUrl": "https://www.github.com/ColorlibHQ/AdminLTE/issues/3944"
+                    },
+                    {
+                        "issueName": "[BUG] Sidebar collapsing animation causes ugly word wrapping during transition",
+                        "issueUrl": "https://www.github.com/ColorlibHQ/AdminLTE/issues/3865"
+                    },
+                    {
+                        "issueName": "[FEATURE] IFrame Tab without close button",
+                        "issueUrl": "https://www.github.com/ColorlibHQ/AdminLTE/issues/3827"
+                    },
+                    {
+                        "issueName": "[QUESTION] Is it possible to change the DataTables pagination colour without using accent-*?",
+                        "issueUrl": "https://www.github.com/ColorlibHQ/AdminLTE/issues/3824"
+                    },
+                    {
+                        "issueName": "Once sidebar toggled it will be saved, right now its come again when we hit refresh",
+                        "issueUrl": "https://www.github.com/ColorlibHQ/AdminLTE/issues/3741"
+                    },
+                    {
+                        "issueName": "[FEATURE]Adaptive layout without bootstrap",
+                        "issueUrl": "https://www.github.com/ColorlibHQ/AdminLTE/issues/3730"
+                    },
+                    {
+                        "issueName": "[QUESTION] IFrame plugin usage",
+                        "issueUrl": "https://www.github.com/ColorlibHQ/AdminLTE/issues/3726"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/tabler/tabler",
+                "issues": [
+                    {
+                        "issueName": "[FEATURE] add table plugin",
+                        "issueUrl": "https://www.github.com/tabler/tabler/issues/905"
+                    },
+                    {
+                        "issueName": "[BUG] Litepicker border broken with predefined ranges ",
+                        "issueUrl": "https://www.github.com/tabler/tabler/issues/903"
+                    },
+                    {
+                        "issueName": "[FEATURE] Starter template for \"combined\" layout",
+                        "issueUrl": "https://www.github.com/tabler/tabler/issues/901"
+                    },
+                    {
+                        "issueName": "[BUG] is-invalid-lite class is not working under 'was-validated' form class. is this inteded?",
+                        "issueUrl": "https://www.github.com/tabler/tabler/issues/900"
+                    },
+                    {
+                        "issueName": "Plans on continue development",
+                        "issueUrl": "https://www.github.com/tabler/tabler/issues/898"
+                    },
+                    {
+                        "issueName": "[BUG] active tab in dark mode is white",
+                        "issueUrl": "https://www.github.com/tabler/tabler/issues/897"
+                    },
+                    {
+                        "issueName": "[BUG] Wrong transition shorthand order",
+                        "issueUrl": "https://www.github.com/tabler/tabler/issues/896"
+                    },
+                    {
+                        "issueName": "[BUG] Background color overwrites background image",
+                        "issueUrl": "https://www.github.com/tabler/tabler/issues/895"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/mdbootstrap/mdb-ui-kit",
+                "issues": [
+                    {
+                        "issueName": "Border colors doesn't work properly",
+                        "issueUrl": "https://www.github.com/mdbootstrap/mdb-ui-kit/issues/1466"
+                    },
+                    {
+                        "issueName": "Can't use mdb-ui-kit modules",
+                        "issueUrl": "https://www.github.com/mdbootstrap/mdb-ui-kit/issues/1465"
+                    },
+                    {
+                        "issueName": "<Input> in Drop-down menu item causes missing fade-in animation when opening the drop-down ",
+                        "issueUrl": "https://www.github.com/mdbootstrap/mdb-ui-kit/issues/1462"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/ColorlibHQ/gentelella",
+                "issues": [
+                    {
+                        "issueName": "下载后怎么运行呀？需要那些环境呀？我是个小白",
+                        "issueUrl": "https://www.github.com/ColorlibHQ/gentelella/issues/923"
+                    },
+                    {
+                        "issueName": "Django-Mezzanine-Gentelella work together or options?",
+                        "issueUrl": "https://www.github.com/ColorlibHQ/gentelella/issues/921"
+                    },
+                    {
+                        "issueName": "Is it possible to have a different logo when left side menu is collapsed?",
+                        "issueUrl": "https://www.github.com/ColorlibHQ/gentelella/issues/919"
+                    },
+                    {
+                        "issueName": "The gender select color in form_wizards.html",
+                        "issueUrl": "https://www.github.com/ColorlibHQ/gentelella/issues/918"
+                    },
+                    {
+                        "issueName": "can i init close the panel x_panel for default?",
+                        "issueUrl": "https://www.github.com/ColorlibHQ/gentelella/issues/917"
+                    },
+                    {
+                        "issueName": "How to upgrade gentelella version 1.4  to   version 2.0  using an efficient method？ And do you have plan to release version 2.0？ ",
+                        "issueUrl": "https://www.github.com/ColorlibHQ/gentelella/issues/916"
+                    },
+                    {
+                        "issueName": "Some wrong with canvas tags in the index.html weather part when I use for loop in django",
+                        "issueUrl": "https://www.github.com/ColorlibHQ/gentelella/issues/915"
+                    },
+                    {
+                        "issueName": "Display bug on version 2.0-beta2",
+                        "issueUrl": "https://www.github.com/ColorlibHQ/gentelella/issues/913"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/react-bootstrap/react-bootstrap",
+                "issues": [
+                    {
+                        "issueName": "Browser email validation overwrites custom validation",
+                        "issueUrl": "https://www.github.com/react-bootstrap/react-bootstrap/issues/6058"
+                    },
+                    {
+                        "issueName": "Fix #5894 changed behaviour of onExited Event handler (and maybe others)",
+                        "issueUrl": "https://www.github.com/react-bootstrap/react-bootstrap/issues/6057"
+                    },
+                    {
+                        "issueName": "InputGroup doesn't work",
+                        "issueUrl": "https://www.github.com/react-bootstrap/react-bootstrap/issues/6055"
+                    },
+                    {
+                        "issueName": "Why can't I change pagination items's label?",
+                        "issueUrl": "https://www.github.com/react-bootstrap/react-bootstrap/issues/6041"
+                    },
+                    {
+                        "issueName": "How can I make the carousel indicators always visible?",
+                        "issueUrl": "https://www.github.com/react-bootstrap/react-bootstrap/issues/6040"
+                    },
+                    {
+                        "issueName": "Can't run npm run build with react bootstrap + ts + sass",
+                        "issueUrl": "https://www.github.com/react-bootstrap/react-bootstrap/issues/6039"
+                    },
+                    {
+                        "issueName": "Can I use it within a page that uses bootstrap 3?  [Question] ",
+                        "issueUrl": "https://www.github.com/react-bootstrap/react-bootstrap/issues/6038"
+                    },
+                    {
+                        "issueName": "Placeholder animations don't work or hide the element",
+                        "issueUrl": "https://www.github.com/react-bootstrap/react-bootstrap/issues/6029"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/verekia/js-stack-from-scratch",
+                "issues": [
+                    {
+                        "issueName": "Installing ESLint on windows",
+                        "issueUrl": "https://www.github.com/verekia/js-stack-from-scratch/issues/264"
+                    },
+                    {
+                        "issueName": "Out of date",
+                        "issueUrl": "https://www.github.com/verekia/js-stack-from-scratch/issues/262"
+                    },
+                    {
+                        "issueName": "Add instructions to deploy in DigitalOcean",
+                        "issueUrl": "https://www.github.com/verekia/js-stack-from-scratch/issues/260"
+                    },
+                    {
+                        "issueName": "jest : SecurityError: localStorage is not available for opaque origins",
+                        "issueUrl": "https://www.github.com/verekia/js-stack-from-scratch/issues/258"
+                    },
+                    {
+                        "issueName": "V3 Roadmap",
+                        "issueUrl": "https://www.github.com/verekia/js-stack-from-scratch/issues/255"
+                    },
+                    {
+                        "issueName": ".jsx instead of .js",
+                        "issueUrl": "https://www.github.com/verekia/js-stack-from-scratch/issues/252"
+                    },
+                    {
+                        "issueName": "jest's collectCoverageFrom",
+                        "issueUrl": "https://www.github.com/verekia/js-stack-from-scratch/issues/251"
+                    },
+                    {
+                        "issueName": "Flow error in chapter 04. Flow error: (This type is incompatible with the expected param type of Element)",
+                        "issueUrl": "https://www.github.com/verekia/js-stack-from-scratch/issues/249"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/bootstrap-vue/bootstrap-vue",
+                "issues": [
+                    {
+                        "issueName": "b-popover stuck open in Safari",
+                        "issueUrl": "https://www.github.com/bootstrap-vue/bootstrap-vue/issues/6781"
+                    },
+                    {
+                        "issueName": "b-carousel won't show charts except the first one",
+                        "issueUrl": "https://www.github.com/bootstrap-vue/bootstrap-vue/issues/6780"
+                    },
+                    {
+                        "issueName": "b-table v-for cell",
+                        "issueUrl": "https://www.github.com/bootstrap-vue/bootstrap-vue/issues/6773"
+                    },
+                    {
+                        "issueName": "Disable indicators (b-carousel)",
+                        "issueUrl": "https://www.github.com/bootstrap-vue/bootstrap-vue/issues/6770"
+                    },
+                    {
+                        "issueName": "computedState not working in radio-group",
+                        "issueUrl": "https://www.github.com/bootstrap-vue/bootstrap-vue/issues/6762"
+                    },
+                    {
+                        "issueName": "Docs: <b-tabs> - please provide example code for property \"value\"",
+                        "issueUrl": "https://www.github.com/bootstrap-vue/bootstrap-vue/issues/6761"
+                    },
+                    {
+                        "issueName": "Docs: <b-tooltip> :delay option syntax not fully mentioned",
+                        "issueUrl": "https://www.github.com/bootstrap-vue/bootstrap-vue/issues/6755"
+                    },
+                    {
+                        "issueName": "<b-table> table header misalign when use transitions",
+                        "issueUrl": "https://www.github.com/bootstrap-vue/bootstrap-vue/issues/6753"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://www.github.com/topics/wordplate",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/wordplate/wordplate",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/wordplate/extended-acf",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/wordplate/plate",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/wordplate/framework",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/wordplate/mail",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/fiskhandlarn/blade",
+                "issues": [
+                    {
+                        "issueName": "Upgrade phpunit to 9.5",
+                        "issueUrl": "https://www.github.com/fiskhandlarn/blade/issues/10"
+                    },
+                    {
+                        "issueName": "Fix/test ACF dashes",
+                        "issueUrl": "https://www.github.com/fiskhandlarn/blade/issues/8"
+                    },
+                    {
+                        "issueName": "Add examples",
+                        "issueUrl": "https://www.github.com/fiskhandlarn/blade/issues/6"
+                    },
+                    {
+                        "issueName": "Update documentation for new soberwp/controller version",
+                        "issueUrl": "https://www.github.com/fiskhandlarn/blade/issues/5"
+                    },
+                    {
+                        "issueName": "Scope helper functions",
+                        "issueUrl": "https://www.github.com/fiskhandlarn/blade/issues/4"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/Levdbas/BasePlate",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/wordplate/wordplate.github.io",
+                "issues": []
+            }
+        ]
+    }
+]
