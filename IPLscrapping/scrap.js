@@ -18,6 +18,7 @@ function requestCallBack(err,res,html){
         let revurl = reverse(matchscoreurl);
         let matchId = revurl.split("/")[1];
         matchId = matchId.split("-")[0];
+        matchId = reverse(matchId);
         playerstats.push({
             "MatchUrl" : matchscoreurl,
             "MatchID" : matchId,
